@@ -1,0 +1,18 @@
+.add-graph {
+    display: block;
+    float: right;
+}
+
+.add-mode .add-graph {
+    display: none;
+}
+
+.add-query {
+    border: 1px solid darkgray;
+}
+
+.conversion {
+    width: 350px;
+    display: inline-block;
+    margin-right: 10px;
+}
